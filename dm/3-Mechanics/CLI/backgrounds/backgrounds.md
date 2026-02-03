@@ -1,0 +1,35 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+---
+# Index of Backgrounds
+
+- [Acolyte](./acolyte.md)
+- [Augen Trust (Spy)](./augen-trust-spy-egw.md)
+- [Charlatan](./charlatan.md)
+- [Cobalt Scholar (Sage)](./cobalt-scholar-sage-egw.md)
+- [Criminal (Spy) (Variant)](./criminal-spy-variant.md)
+- [Criminal](./criminal.md)
+- [Custom Background](./custom-background.md)
+- [Entertainer (Gladiator) (Variant)](./entertainer-gladiator-variant.md)
+- [Entertainer](./entertainer.md)
+- [Folk Hero](./folk-hero.md)
+- [Grinner](./grinner-egw.md)
+- [Guild Artisan (Guild Merchant) (Variant)](./guild-artisan-guild-merchant-variant.md)
+- [Guild Artisan](./guild-artisan.md)
+- [Hermit](./hermit.md)
+- [Luxonborn (Acolyte)](./luxonborn-acolyte-egw.md)
+- [Myriad Operative (Criminal)](./myriad-operative-criminal-egw.md)
+- [Noble (Knight) (Variant)](./noble-knight-variant.md)
+- [Noble (Retainers) (Variant)](./noble-retainers-variant.md)
+- [Noble](./noble.md)
+- [Outlander](./outlander.md)
+- [Revelry Pirate (Sailor)](./revelry-pirate-sailor-egw.md)
+- [Rewarded](./rewarded-bmt.md)
+- [Ruined](./ruined-bmt.md)
+- [Sage](./sage.md)
+- [Sailor (Pirate) (Variant)](./sailor-pirate-variant.md)
+- [Sailor](./sailor.md)
+- [Soldier](./soldier.md)
+- [Urchin](./urchin.md)
+- [Volstrucker Agent](./volstrucker-agent-egw.md)
